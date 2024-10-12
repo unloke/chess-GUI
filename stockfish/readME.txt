@@ -1,0 +1,1 @@
+you may want to put your own stockfish version in this folder.
